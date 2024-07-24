@@ -19,7 +19,6 @@ Hello! I'm Loay Alkashif, a passionate backend developer specializing in Node.js
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
 
 
-<br/>
 ## 📫 Connect with Me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' alt='GitHub' title='GitHub' height='40' style='fill:#181717;'/>](https://github.com/LoayAlkashif) 
