@@ -20,8 +20,10 @@ Hello! I'm Loay Alkashif, a passionate backend developer specializing in Node.js
 
 
 <br/>
-📫 Connect with Me
-<img src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg' alt='GitHub' title='GitHub' height='40'/>
-<img src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg' alt='LinkedIn' title='LinkedIn' height='40'/>
-<img src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg' alt='Facebook' title='Facebook' height='40'/>
-<img src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg' alt='Instagram' title='Instagram' height='40'/>
+## 📫 Connect with Me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' alt='GitHub' title='GitHub' height='40' style='fill:#181717;'/>](https://github.com/LoayAlkashif) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg' alt='LinkedIn' title='LinkedIn' height='40' style='fill:#0A66C2;'/>](https://www.linkedin.com/in/loay-alkashif-050136211/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg' alt='Facebook' title='Facebook' height='40' style='fill:#1877F2;'/>](https://www.facebook.com/loay.alkashif) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg' alt='Instagram' title='Instagram' height='40' style='fill:#E4405F;'/>](https://www.instagram.com/loayalkashif/)
+
