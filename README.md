@@ -24,5 +24,5 @@ Hello! I'm Loay Alkashif, a passionate backend developer specializing in Node.js
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' alt='GitHub' title='GitHub' height='40' style='fill:#181717;'/>](https://github.com/LoayAlkashif) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg' alt='LinkedIn' title='LinkedIn' height='40' style='fill:#0A66C2;'/>](https://www.linkedin.com/in/loay-alkashif-050136211/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg' alt='Facebook' title='Facebook' height='40' style='fill:#1877F2;'/>](https://www.facebook.com/loay.alkashif) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg' alt='Instagram' title='Instagram' height='40' style='fill:#E4405F;'/>](https://www.instagram.com/loayalkashif/)
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='Instagram' title='Instagram' height='40' style='fill:#E4405F;'/>](https://www.instagram.com/loayalkashif/)
 
