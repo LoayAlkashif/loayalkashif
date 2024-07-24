@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loay Alkashif </h1>
-<h3 align="center">I am Software Developer </h3>
+<h3 align="center">I'm Software Developer </h3>
 
 <img src="https://www.foxigen.com/wp-content/uploads/2019/06/software-development-banner.jpg" alt=" Software Developer"/>
 Hello! I'm Loay Alkashif, a passionate backend developer specializing in Node.js. Based in Cairo, Egypt, I have a strong background in web development and enjoy creating efficient and scalable applications. My primary focus is on backend development
