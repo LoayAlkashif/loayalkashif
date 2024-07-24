@@ -4,7 +4,7 @@
 <img src="https://www.foxigen.com/wp-content/uploads/2019/06/software-development-banner.jpg" alt=" Software Developer"/>
 Hello! I'm Loay Alkashif, a passionate backend developer specializing in Node.js. Based in Cairo, Egypt, I have a strong background in web development and enjoy creating efficient and scalable applications. My primary focus is on backend development
 <br/>
-- 🌱 I’m currently learning Backend Engineering <br/>
+- 🌱 I’m currently learning: Backend Engineering <br/>
 - 📫 How to reach me: loayalkashif@gmail.com
 
 ## 💻 Skills and Experience
