@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loay Alkashif </h1>
 <h3 align="center">I'm Backend Developer </h3>
 
-<img src="https://smarterleaner.com/cdn/shop/files/Backend_Developer_ACsVD3G_1.jpg?v=1719470039" width="100%" height="100px" alt=" Software Developer"/>
+<img src="https://smarterleaner.com/cdn/shop/files/Backend_Developer_ACsVD3G_1.jpg?v=1719470039" width="100%" height="300px" alt=" Software Developer"/>
 Hello! I'm Loay Alkashif, a passionate backend developer specializing in Node.js and .NET. Based in Cairo, Egypt, I have a strong background in web development and enjoy creating efficient and scalable applications. My primary focus is on backend development.
 <br/>
 - 🌱 I’m currently learning: Backend Engineering <br/>
