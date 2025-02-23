@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Loay Alkashif </h1>
-<h3 align="center">I'm Software Developer </h3>
+<h3 align="center">I'm Backend Developer </h3>
 
-<img src="https://www.foxigen.com/wp-content/uploads/2019/06/software-development-banner.jpg" alt=" Software Developer"/>
-Hello! I'm Loay Alkashif, a passionate backend developer specializing in Node.js. Based in Cairo, Egypt, I have a strong background in web development and enjoy creating efficient and scalable applications. My primary focus is on backend development
+<img src="https://drive.google.com/file/d/1xBFLFhFj7yDs7njRVXj2RflnPRwJ-pIa/view" width="100%" height="100px" alt=" Software Developer"/>
+Hello! I'm Loay Alkashif, a passionate backend developer specializing in Node.js and .NET. Based in Cairo, Egypt, I have a strong background in web development and enjoy creating efficient and scalable applications. My primary focus is on backend development.
 <br/>
 - 🌱 I’m currently learning: Backend Engineering <br/>
 - 📫 How to reach me: loayalkashif@gmail.com
@@ -11,15 +11,33 @@ Hello! I'm Loay Alkashif, a passionate backend developer specializing in Node.js
 
 **Languages:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> 
+<img src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png" alt="TypeScript" width="50" height="50"/> 
+
 
 **Backend Technologies:**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/> <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="Nest.js" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/> 
+<img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="Nest.js" width="50" height="50"/> 
+<img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt=".Net" width="50" height="50"/>
+<img src="https://softloomittraining.com/wp-content/uploads/2023/04/aspnet-benefits.png" alt="ASP .Net" width="50" height="50"/>
+
 
 **Databases:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SqlServer" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+<img src="https://mma.prnewswire.com/media/2041351/linq_logo_release_Logo.jpg" alt="LINQ" width="50" height="50"/>
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dsMhvjq7FAhUwLW35icrkw.png" alt="EF Core" width="50" height="50"/>
+
+
+
 
 
 ## 📫 Connect with Me
